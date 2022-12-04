@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap');
+.fullBody{
+  background-image: url("https://thumbs.dreamstime.com/b/todo-list-seamless-pattern-universal-background-66678083.jpg");
+}
+
+h1{
+  font-weight: 700;
+  font-family:  'Dancing Script', cursive;
+}
+
+h2{
+  font-family:  'Dancing Script', cursive;
+  font-weight: 600;
+}
+*{
+  font-style: italic;
+}
